@@ -4,6 +4,7 @@ body {
     color: #fff;
     text-align: center;
     overflow-x: hidden;
+    background-color: #000000;
 }
 
 .hero {
@@ -92,7 +93,7 @@ nav li a {
     align-self: flex-start; 
     margin-left: 80px; 
     font-style: italic;
-    width: 100%;
+    width: 50%;
 }
 
 .container {
@@ -111,8 +112,9 @@ nav li a {
 }
 
 .acerca-img {
-    max-width: 40%;
-    border-radius: 10px;
+    max-width: 60%;
+    
+    
 }
 
 .acerca-text {
@@ -126,6 +128,9 @@ nav li a {
 
 .acerca-text h2, .acerca-text p {
     margin: 10px 0;
+}
+.acerca-text img {
+    transform: scale(1.1);
 }
 
 .allies, .enemies {
@@ -203,6 +208,10 @@ nav li a {
     margin-top: 0;
 }
 
+.medio:hover img {
+    transform: scale(1.1);
+}	
+
 footer {
     background-color: rgb(0, 0, 0);
     padding: 20px;
@@ -225,6 +234,22 @@ footer {
         display: none;
     }
 
+    @media screen and (max-width: 600px) {
+        .hero, .section, .footer {
+            display: none;
+        }
+        .error-message {
+            display: block;
+        }
+    }
+    .error-message {
+        display: none;
+        background-color: red;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        font-size: 18px;
+    }
 
     .mobile-message {
         display: block;
