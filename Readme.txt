@@ -32,7 +32,7 @@ El proyecto está estructurado de la siguiente manera:
 
 1. Clona este repositorio en tu máquina local:
    ```
-   git clone https://github.com/L-Salamanca/PROYECTO-FILTRO_PEREZ_LUIS
+   git clone https://tu-repositorio.git
    ```
 2. Abre el archivo `index.html` en tu navegador web para visualizar la página.
 
