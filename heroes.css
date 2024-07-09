@@ -2,12 +2,10 @@ body {
     background-color: black;
     color: white;
     font-family: Arial, sans-serif;
-    background-image: url(https://i.pinimg.com/736x/ae/e4/61/aee46115fe283f3418aa73bccd3ad2ee.jpg);
+    background-image: url(https://i.pinimg.com/736x/71/d8/8a/71d88a3200e788d9c4802d0e970d13a9.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center;
     backdrop-filter: blur(6px);
-    margin: 0;
 }
 
 .container {
@@ -21,8 +19,9 @@ body {
     align-items: center;
     justify-content: space-around;
     flex-wrap: wrap;
-    background-color: black;
     border: 5px solid rgb(255, 255, 255);
+    background-color: black;
+        
 }
 
 .content h1 {
@@ -30,7 +29,6 @@ body {
     margin-bottom: 10px;
     border: 3px solid white;
     backdrop-filter: blur(10px);
-
 }
 
 .content img {
