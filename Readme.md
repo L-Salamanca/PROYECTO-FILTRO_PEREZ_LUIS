@@ -10,7 +10,7 @@ Este es un proyecto de landing page dedicado al universo de Batman, diseñado pa
 - **imagensota.jpeg**: Imagen de fondo utilizada en la sección principal.
 - **pixelcut-export.png**: Imagen del título utilizado en la sección principal.
 - **imagen_2024-07-08_012421012-removebg-preview.png**: Imagen de Batman utilizada en la sección "Acerca de".
-- **Enemigos y Aliados en sus respectivos HTML: Usados para sus secciones correspondientes.
+- **Enemigos y Aliados en sus respectivos HTML**: Usados para sus secciones correspondientes.
 
 ## Estructura del Proyecto
 
