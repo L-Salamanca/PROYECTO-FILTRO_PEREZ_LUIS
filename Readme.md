@@ -1,8 +1,7 @@
 
 # Landing Page de Batman
 
-Este es un proyecto de landing page dedicado al universo de Batman, diseñado para mostrar información relevante sobre el personaje, sus aliados, enemigos, medios destacados y más.
-
+Bienvenido al mundo de Batman a través de esta exclusiva landing page diseñada para los verdaderos fanáticos y curiosos por igual. Sumérgete en la vasta y misteriosa Gotham City mientras exploras información detallada sobre el legendario Caballero Oscuro y su universo. Desde sus aliados como el intrépido Robin y la astuta Batgirl, hasta sus icónicos enemigos como el enigmático Joker y la seductora Catwoman, cada sección está meticulosamente diseñada para capturar la esencia única de este héroe vigilante y su complejo mundo. Descubre los medios destacados que han moldeado su historia a lo largo de los años, desde cómics legendarios hasta películas aclamadas. Esta landing page no solo celebra la rica historia de Batman, sino que también te invita a explorar profundamente su legado a través de contenido visualmente impactante y curiosidades fascinantes. 
 ## Contenido del Proyecto
 
 - **Index.html**: Archivo principal que contiene la estructura HTML de la página.
@@ -42,7 +41,7 @@ El proyecto está estructurado de la siguiente manera:
 - **Imágenes**: Se han incluido diversas imágenes para mejorar la estética y comprensión del contenido.
 
 
-## Autor
+## Luis Fernando Pèrez Salamanca
 
 Desarrollado por Luis Fernando Pérez Salamanca.
 
